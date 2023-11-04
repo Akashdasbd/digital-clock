@@ -1,0 +1,10 @@
+body {
+    background: green;
+    color: #fff;
+}
+
+#clock {
+    font-size: 50px;
+    width: 700px;
+    margin: 300px auto;
+}
